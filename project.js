@@ -119,3 +119,7 @@ const reels = spin();
 const rows = transposereels(reels);
 printrows(rows);
 const winnings = getwinngings(rows, betamount, nolines);
+const ok = () =>{
+    let k = 'kk';
+    console.log(k);
+}
