@@ -112,6 +112,7 @@ const getwinngings = (rows, betamount, lines) => {
     return winnings;
 }
 
+let num = 100000;
 let balance = deposit();
 let nolines = getnolines();
 let betamount = bet(balance, nolines);
