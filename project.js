@@ -5,6 +5,7 @@ const ROWS = 3;
 const COLS = 3;
 
 const SYMBOLS_COUNT = {
+    apple : 10,
     cherry : 2,
     lemon : 4,
     orange : 6,
@@ -12,6 +13,7 @@ const SYMBOLS_COUNT = {
 }
 
 const SYMBOL_VALUES = {
+    apple : 1,
     cherry : 2,
     lemon : 3,
     orange : 4,
