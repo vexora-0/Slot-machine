@@ -97,6 +97,10 @@ const printrows = (rows) => {
     }
 }
 
+const a = () => {
+    console.log("hello, this is working");
+}
+
 const getwinngings = (rows, betamount, lines) => {
     let winnings = 0;
     for (row of rows){
